@@ -16,10 +16,10 @@ font:
 
     style: Bold
 
-  size: 7.0
+  size: 11.0
 
 import:
-  - ~/.config/alacritty/themes/Everforest-Dark-Hard.yml
+  - ~/.config/alacritty/themes/Solarized-Dark.yml
 
 cursor:
   style:
