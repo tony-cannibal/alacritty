@@ -1,4 +1,5 @@
-import = ["/home/luis/.config/alacritty/custom-themes/MonochromeBlack.toml"]
+# import = ["/home/luis/.config/alacritty/custom-themes/MonochromeBlack.toml"]
+import = ["/home/luis/.config/alacritty/custom-themes/Solarized-Dark.toml"]
 # import = ["/home/luis/.config/alacritty/custom-themes/gruvbox_dark.toml"]
 
 [cursor]
@@ -13,11 +14,11 @@ shape = "Block"
 size = 11.0
 
 [font.bold]
-family = "terminus"
+family = "Iosevka Nerd Font"
 style = "Bold"
 
 [font.normal]
-family = "terminus"
+family = "Iosevka Nerd Font"
 style = "Regular"
 
 [window]
