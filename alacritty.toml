@@ -1,6 +1,8 @@
 # import = ["/home/luis/.config/alacritty/custom-themes/MonochromeBlack.toml"]
-import = ["/home/luis/.config/alacritty/custom-themes/Solarized-Dark.toml"]
+# import = ["/home/luis/.config/alacritty/custom-themes/Solarized-Dark.toml"]
 # import = ["/home/luis/.config/alacritty/custom-themes/gruvbox_dark.toml"]
+# import = ["/home/luis/.config/alacritty/themes/rose-pine-dawn.toml"]
+import = ["/home/luis/.cache/wal/colors-alacritty.toml"]
 
 [cursor]
 blink_interval = 400
@@ -14,15 +16,17 @@ shape = "Block"
 size = 11.0
 
 [font.bold]
-family = "Iosevka Nerd Font"
+family = "Gohu GohuFont"
+# family = "terminus"
 style = "Bold"
 
 [font.normal]
-family = "Iosevka Nerd Font"
+# family = "terminus"
+family = "Gohu GohuFont"
 style = "Regular"
 
 [window]
-opacity = 0.9
+opacity = 0.8
 
 [window.padding]
 x = 6
